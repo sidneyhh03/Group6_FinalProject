@@ -22,7 +22,7 @@
         <div>
             <asp:Label ID="lblDescription" runat="server" 
                 Text="Given two arrays, A and B, return the median of the two sorted arrays."></asp:Label><br/><br />
-            <asp:Label ID="lblArrayA" runat="server" Text=""></asp:Label>
+            <asp:Label ID="lblArrayA" runat="server" Text=""></asp:Label><br />
             <asp:Label ID="lblArrayB" runat="server" Text=""></asp:Label><br />
             <asp:Label ID="lblMedian" runat="server" Text=""></asp:Label> 
         </div>

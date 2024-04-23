@@ -22,6 +22,7 @@
         <div>
             <asp:Button ID="btnRedirect" OnClick="btnRedirect_Click" runat="server" Text="Go to Hard Problem"  /><br />
             <asp:Button ID="btnRedirect2" OnClick="btnRedirect2_Click" runat="server" Text="Go to Medium Problem"  /><br />
+            <asp:Button ID="btnRedirect3" OnClick="btnRedirect3_Click" runat="server" Text="Go to Easy Problem"  /><br />
         </div>
     </form>
 </body>
