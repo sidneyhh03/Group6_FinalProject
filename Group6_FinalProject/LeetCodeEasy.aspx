@@ -10,7 +10,6 @@
  * Brief Description: This is the easy leetcode problem. 
  * Citations: My dad's brain; https://leetcode.com/problems/single-number/description/; https://chat.openai.com/
  * Anything else that's relevant:
-
     -->
 
 <!DOCTYPE html>
