@@ -33,5 +33,9 @@ namespace Group6_FinalProject
         {
             Response.Redirect("LeetCodeMedium.aspx");
         }
+        protected void btnRedirect3_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("LeetCodeEasy.aspx");
+        }
     }
 }
