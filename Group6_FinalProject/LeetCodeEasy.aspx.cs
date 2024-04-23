@@ -14,7 +14,7 @@ using static Group6_FinalProject.LeetCodeMedium.MediumLeetCodeProblem;
  * Course: IS 3050
  * Semester/Year: Spring 2024
  * Brief Description: This is the easy leetcode problem. 
- * Citations: My dad's brain; https://leetcode.com/problems/single-number/description/; https://chat.openai.com/
+ * Citations: https://leetcode.com/problems/single-number/description/; https://chat.openai.com/
  * Anything else that's relevant:
  */
 
